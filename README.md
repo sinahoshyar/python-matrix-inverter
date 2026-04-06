@@ -54,26 +54,6 @@ Inverse matrix:
 ---
 
 
-## How to Run
-
-1. Clone the repository:
-
-```
-git clone https://github.com/sinahoshyar/matrix-inverter.git
-```
-
-2. Navigate into the folder:
-
-```
-cd matrix-inverter
-```
-
-3. Run the program:
-
-```
-python main.py
-```
-
 ---
 
 ##  What I Learned
